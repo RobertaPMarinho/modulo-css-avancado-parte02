@@ -1,5 +1,6 @@
 .container {
   height: 130px;
+  width: 350px;
   flex-wrap: wrap; /*para quebrar os elementos dentro do container */
 }
 
@@ -25,3 +26,16 @@
 .stretch {
   align-content: stretch;
 }
+
+.space-between {
+  align-content: space-between;
+}
+
+.space-around {
+  align-content: space-around;
+}
+
+.space-evenly {
+  align-content: space-evenly;
+}
+
